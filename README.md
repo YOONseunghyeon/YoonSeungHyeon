@@ -17,7 +17,7 @@
  - django 
   - ML,DL 모델 구현 후 웹페이지 생성
  - ML ( sklearn )
-  - sklearn을 이용한 classfier, regression 모델 구현
+   - sklearn을 이용한 classfier, regression 모델 구현
 ## Education
 
 **동아대학교 경제학과** (2017~) 
